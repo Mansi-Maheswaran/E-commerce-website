@@ -28,8 +28,3 @@ This project is a web-based E-Commerce Platform designed to provide an easy and 
 - Add, update, and delete products  
 - Manage inventory and stock  
 - View and update order status  
-
-## 🚀 How to Run the Project
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/ecommerce-platform.git
